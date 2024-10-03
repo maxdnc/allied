@@ -10,7 +10,7 @@ const ContentSection = () => {
   ];
 
   return (
-    <div className="space-y-5 max-w-[742px]">
+    <div className="space-y-5 max-w-[742px] flex-1">
       <BusinessTag label={'Security Services'} />
       <h1 className="text-[65px] leading-[60px]">
         Experience Unmatched <br /> Security Services

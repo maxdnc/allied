@@ -2,8 +2,8 @@ import SecurityHeroSection from './components/homePage/SecurityHeroSection/Secur
 
 export default function Home() {
   return (
-    <>
+    <div className="p-12 ">
       <SecurityHeroSection />
-    </>
+    </div>
   );
 }
